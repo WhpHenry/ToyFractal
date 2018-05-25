@@ -1,8 +1,7 @@
 /__pycache__
 
-model/
+img/
 .vscode/
+
 command.txt
 *pyc
-
-practise.py
