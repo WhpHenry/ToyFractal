@@ -1,0 +1,8 @@
+/__pycache__
+
+model/
+.vscode/
+command.txt
+*pyc
+
+practise.py
